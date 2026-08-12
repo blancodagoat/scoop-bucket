@@ -1,10 +1,10 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Copy text from anything on screen with Windows' built-in OCR: hotkey, drag, and it's on the clipboard. Works offline.",
     "homepage": "https://github.com/blancodagoat/recite",
     "license": "MIT",
-    "url": "https://github.com/blancodagoat/recite/releases/download/v1.1.0/Recite.exe",
-    "hash": "d94c8114679e5b2ff58b8e5e8d41ef88fee2fe99ace6444d9ee69d88e3c156e6",
+    "url": "https://github.com/blancodagoat/recite/releases/download/v1.1.1/Recite.exe",
+    "hash": "0fd2cef0a1eae4b13cd6277b1962feebb27193f49cd3c3e586cfd80f8435b7f7",
     "bin": "Recite.exe",
     "shortcuts": [
         [
