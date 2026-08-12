@@ -1,10 +1,10 @@
 {
-    "version": "1.2.5",
+    "version": "1.2.6",
     "description": "Instant replay for Windows with a crash-safe disk buffer: one key saves your last 5 to 25 minutes as a clip. Any GPU, no telemetry.",
     "homepage": "https://github.com/blancodagoat/DejaVu",
     "license": "MIT",
-    "url": "https://github.com/blancodagoat/DejaVu/releases/download/v1.2.5/DejaVu.exe",
-    "hash": "a89e7dd6199afbc89a644e857524d3f7928df9e6749347f7cf7be6476b459b04",
+    "url": "https://github.com/blancodagoat/DejaVu/releases/download/v1.2.6/DejaVu.exe",
+    "hash": "0741eeced2f7384d385f97d14a2411a111966db4839877f7c4fee2226fb50fbd",
     "bin": "DejaVu.exe",
     "shortcuts": [
         [
